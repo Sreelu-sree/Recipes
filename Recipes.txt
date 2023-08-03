@@ -4,3 +4,5 @@ Willkomen to our Recipes.
 
 Pizza
 Pasta
+Burger
+Sandies
